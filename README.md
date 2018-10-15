@@ -4,7 +4,8 @@ Open Source FPV Drone Frame project initiated by Team BlackSheep
 
 # About SOURCE TWO
 ## The idea
-The SOURCE TWO is the first of its kind, open source collaborative frame project. It empowers the community to integrate best practices and current trends into a continuously manufactured FPV frame. The price, documentation and compatibility puts it on track to be the most accessible frame for newcomers and professionals alike.
+
+TEXT habe ich und füge ich noch hinzu
 
 <img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/source_one_v0.2_ghost.jpg" width="800">
 

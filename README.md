@@ -18,8 +18,6 @@ TEXT habe ich und füge ich noch hinzu
 * Stack Mounting: 30.5 × 30.5mm 
 * Weight 5": xg
 
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wheelbase.jpg" width="800">
-
 ## Hardware
 * 20x M3x10 allen screw
 *  4x M3x14 allen screw

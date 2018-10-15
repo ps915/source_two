@@ -9,7 +9,7 @@ The SOURCE TWO is a collaborative open source frame project initiated by Team Bl
 
 The frame design is donated to the community to empower creators and makers, and integrate best practices and current trends faster into a continuously manufactured product. It's a cheaper alternative to clones that can be bought with the peace of mind that the big brands of the FPV industry stand for.
 
-<img src="https://github.com/ps915/source_two/blob/master/photos/Ghost001.png" width="800">
+<img src="https://github.com/ps915/source_two/blob/master/photos/S2_v0.1_ghost002.png" width="800">
 
 ## Frame specifications
 * Wheelbase 5": 220mm

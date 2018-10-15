@@ -23,8 +23,6 @@ TEXT habe ich und füge ich noch hinzu
 *  4x M3x14 allen screw
 *  8X OD 5mm M3 30mm standoff
 
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/SourceOne_press_insert_nut.png" width="800">
-
 ## Where to buy
 
 * [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_one_5in)

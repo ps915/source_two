@@ -1,27 +1,29 @@
 # source_two
 Open Source FPV Drone Frame project initiated by Team BlackSheep
-[<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wallpaper/source_one_small.png" width="800">](https://github.com/tbs-trappy/source_one/blob/master/photos/wallpaper/source_one.png)
+[<img src="https://github.com/ps915/source_two/blob/master/photos/S2_v0.1.png" width="800">](https://github.com/ps915/source_two/blob/master/photos/S2_v0.1.png)
 
 # About SOURCE TWO
 ## The idea
 
-TEXT habe ich und füge ich noch hinzu
+The SOURCE TWO is a collaborative open source frame project initiated by Team BlackSheep, targeted at FPV racers. It follows the footsteps of SOURCE ONE, a FPV freestyle frame.
+
+The frame design is donated to the community to empower creators and makers, and integrate best practices and current trends faster into a continuously manufactured product. It's a cheaper alternative to clones that can be bought with the peace of mind that the big brands of the FPV industry stand for.
 
 <img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/source_one_v0.2_ghost.jpg" width="800">
 
 ## Frame specifications
-* Wheelbase 5": xmm
-* Top Plate: xmm
-* Bottom Plate xmm
-* Standoff height: xmm
-* Arm thickness 5": xmm
+* Wheelbase 5": 220mm
+* Top Plate: 2mm
+* Bottom Plate 3mm
+* Standoff height: 25mm
+* Arm thickness 5": 4mm
 * Stack Mounting: 30.5 × 30.5mm 
-* Weight 5": xg
+* Weight 5": 68.7g
 
 ## Hardware
-* 20x M3x10 allen screw
-*  4x M3x14 allen screw
-*  8X OD 5mm M3 30mm standoff
+* 12x M3x12 allen screw
+*  4x M3 Steele Self Lock Nut
+*  4x Silicon Cam mount
 
 ## Where to buy
 

@@ -13,17 +13,18 @@ The frame design is donated to the community to empower creators and makers, and
 
 ## Frame specifications
 * Wheelbase 5": 220mm
-* Top Plate: 2mm
-* Bottom Plate 3mm
+* Top plate: 2mm
+* Bottom plate 3mm
 * Standoff height: 25mm
 * Arm thickness 5": 4mm
-* Stack Mounting: 30.5 × 30.5mm 
+* Stack mounting: 30.5 × 30.5mm 
 * Weight 5": 68.7g
 
 ## Hardware
 * 12x M3x12 allen screw
-*  4x M3 Steele Self Lock Nut
-*  4x Silicon Cam mount
+*  4x M3 steele self lock nut
+*  4x silicone cam mount
+*  4x OD 5mm M3 25mm standoff
 
 ## Where to buy
 * [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_one_5in)
@@ -38,7 +39,7 @@ The frame design is donated to the community to empower creators and makers, and
 Please use the tag "sourcetwo" when uploading files to thingiverse.com
 
 ## Changelog
-### Source TWO v0.1 
+### SOURCE TWO v0.1 
 PHOTOS
 * initial release from TBS
 

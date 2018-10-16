@@ -14,11 +14,11 @@ The frame design is donated to the community to empower creators and makers, and
 ## Frame specifications
 * Wheelbase 5": 220mm
 * Top plate: 2mm
-* Bottom plate 3mm
+* Bottom plate: 3mm
 * Standoff height: 25mm
 * Arm thickness 5": 4mm
 * Stack mounting: 30.5 × 30.5mm & 20 × 20mm 
-* Weight 5": 68.7g
+* Weight: 68.7g
 
 ## Hardware
 * 12x M3x12 allen screw

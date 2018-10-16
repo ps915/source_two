@@ -1,6 +1,11 @@
 # source_two
 Open Source FPV Drone Frame project initiated by Team BlackSheep
-[<img src="https://raw.githubusercontent.com/ps915/source_two/master/photos/blueprint/source_two_small.png" width="800">](https://raw.githubusercontent.com/ps915/source_two/master/photos/blueprint/source_two.png)
+
+<img src="https://raw.githubusercontent.com/ps915/source_two/master/photos/blueprint/source_two_leaked.png" width="800">
+
+## LEAK CHALLENGE
+
+FIRST ONE WHO SHARES THIS GITHUB PAGE AND THIS PICTURE IN THE [TBS LOUNGE](https://www.facebook.com/groups/BlackSheepLOUNGE/) GETS ONE FRAME FOR FREE!
 
 # About SOURCE TWO
 ## The idea
@@ -29,7 +34,6 @@ The frame design is donated to the community to empower creators and makers, and
 ## Where to buy
 * [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_two)
 * open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
-
 
 ## Project links
 * Project discussion: https://discordapp.com/invite/ZJGkHwF 

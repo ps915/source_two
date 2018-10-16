@@ -1,6 +1,6 @@
 # source_two
 Open Source FPV Drone Frame project initiated by Team BlackSheep
-[<img src="https://github.com/ps915/source_two/blob/master/photos/sourceone-card-a6_v4.png" width="800">](https://github.com/ps915/source_two/blob/master/photos/sourceone-card-a6_v4.png)
+[<img src="https://raw.githubusercontent.com/ps915/source_two/master/photos/blueprint/source_two_small.png" width="800">](https://raw.githubusercontent.com/ps915/source_two/master/photos/blueprint/source_two.png)
 
 # About SOURCE TWO
 ## The idea

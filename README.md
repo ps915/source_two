@@ -17,7 +17,7 @@ The frame design is donated to the community to empower creators and makers, and
 * Bottom plate 3mm
 * Standoff height: 25mm
 * Arm thickness 5": 4mm
-* Stack mounting: 30.5 × 30.5mm 
+* Stack mounting: 30.5 × 30.5mm & 20 × 20mm 
 * Weight 5": 68.7g
 
 ## Hardware

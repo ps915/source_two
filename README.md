@@ -27,7 +27,7 @@ The frame design is donated to the community to empower creators and makers, and
 *  4x OD 5mm M3 25mm standoff
 
 ## Where to buy
-* [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_one_5in)
+* [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_two)
 * open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
 
 

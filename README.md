@@ -26,7 +26,6 @@ The frame design is donated to the community to empower creators and makers, and
 *  4x Silicon Cam mount
 
 ## Where to buy
-
 * [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_one_5in)
 * open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
 
@@ -39,11 +38,8 @@ The frame design is donated to the community to empower creators and makers, and
 Please use the tag "sourcetwo" when uploading files to thingiverse.com
 
 ## Changelog
-
-### Source TWO v0.1
-
-<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_1_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_2_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_3_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_4_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_7in_v0.1.jpeg" width="350">
-
+### Source TWO v0.1 
+PHOTOS
 * initial release from TBS
 
 ## Project license

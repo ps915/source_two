@@ -32,7 +32,7 @@ The frame design is donated to the community to empower creators and makers, and
 *  4x OD 5mm M3 25mm standoff
 
 ## Accessories
-More Files on [Thingiverse.com](https://www.thingiverse.com/tag:sourcetwo)
+More files on [Thingiverse.com](https://www.thingiverse.com/tag:sourcetwo)
 ### GoPro Session Mount
 <img src="https://github.com/ps915/source_two/blob/master/photos/004_v0.1.PNG" width="500">
 

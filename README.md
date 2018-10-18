@@ -31,6 +31,17 @@ The frame design is donated to the community to empower creators and makers, and
 *  4x silicone cam mount
 *  4x OD 5mm M3 25mm standoff
 
+## Accessories
+More Files on [Thingiverse.com](https://www.thingiverse.com/tag:sourcetwo)
+### GoPro Session Mount
+<img src="https://github.com/ps915/source_two/blob/master/photos/004_v0.1.PNG" width="500">
+
+### Shark Fin
+<img src="https://github.com/ps915/source_two/blob/master/photos/003_v0.1.PNG" width="500">
+
+### Lumenier AXII / FOXEER Lollipop
+<img src="https://github.com/ps915/source_two/blob/master/photos/005_v0.1.PNG" width="500">
+
 ## Where to buy
 * [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_two)
 * open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added

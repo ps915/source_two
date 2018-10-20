@@ -29,7 +29,7 @@ The frame design is donated to the community to empower creators and makers, and
 
 ## Accessories
 More files on [Thingiverse.com](https://www.thingiverse.com/tag:sourcetwo)
-### Where to buy 3D printed Parts
+### Where to buy 3D printed parts
 Here is a list of recommended 3D Printing services who are sharing their files under the GPL license (OpenSource). 
 * [3dmatisse USA](http://bit.ly/3dmatisse_USA)
 

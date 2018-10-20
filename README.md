@@ -29,6 +29,10 @@ The frame design is donated to the community to empower creators and makers, and
 
 ## Accessories
 More files on [Thingiverse.com](https://www.thingiverse.com/tag:sourcetwo)
+### Where to buy 3D printed Parts
+Here is a list of recommended 3D Printing services who are sharing their files under the GPL license (OpenSource). 
+* [3dmatisse USA](http://bit.ly/3dmatisse_USA)
+
 ### GoPro Session Mount
 <img src="https://github.com/ps915/source_two/blob/master/photos/004_v0.1.PNG" width="500">
 

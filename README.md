@@ -1,11 +1,7 @@
 # source_two
 Open Source FPV Drone Frame project initiated by Team BlackSheep
 
-<img src="https://raw.githubusercontent.com/ps915/source_two/master/photos/blueprint/source_two_leaked.png" width="800">
-
-## LEAK CHALLENGE
-
-FIRST ONE WHO SHARES THIS GITHUB PAGE AND THIS PICTURE IN THE [TBS LOUNGE](https://www.facebook.com/groups/BlackSheepLOUNGE/) GETS ONE FRAME FOR FREE!
+<img src="https://raw.githubusercontent.com/ps915/source_two/master/photos/blueprint/source_two.png" width="800">
 
 # About SOURCE TWO
 ## The idea

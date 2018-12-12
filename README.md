@@ -19,13 +19,19 @@ The frame design is donated to the community to empower creators and makers, and
 * Standoff height: 25mm
 * Arm thickness 5": 4mm
 * Stack mounting: 30.5 × 30.5mm & 20 × 20mm 
-* Weight: 74g
+* Weight: 72g
 
 ## Hardware
 * 12x M3x12 allen screw
 *  4x M3 steele self lock nut
 *  4x silicone cam mount
 *  4x OD 5mm M3 25mm standoff
+
+
+## Where to buy
+* [www.team-blacksheep.com - Frame](https://www.team-blacksheep.com/products/prod:source_two_5in)
+* [www.team-blacksheep.com - Cam Mount](https://www.team-blacksheep.com/products/prod:source2_cam_mount)
+* open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
 
 ## Accessories
 More files on [Thingiverse.com](https://www.thingiverse.com/tag:sourcetwo)
@@ -55,7 +61,13 @@ Please use the tag "sourcetwo" when uploading files to thingiverse.com
 
 ## Changelog
 ### SOURCE TWO v0.1 
-PHOTOS
+<img src="https://github.com/ps915/source_two/blob/master/photos/tbs_sourcetwo_fpv_racing_frame_1.jpg" width="500">
+<img src="https://github.com/ps915/source_two/blob/master/photos/tbs_sourcetwo_fpv_racing_frame_2.jpg" width="500">
+<img src="https://github.com/ps915/source_two/blob/master/photos/tbs_sourcetwo_fpv_racing_frame_3.jpg" width="500">
+<img src="https://github.com/ps915/source_two/blob/master/photos/tbs_sourcetwo_fpv_racing_frame_4.jpg" width="500">
+<img src="https://github.com/ps915/source_two/blob/master/photos/tbs_sourcetwo_fpv_racing_frame_5.jpg" width="500">
+
+
 * initial release from TBS
 
 ## Project license

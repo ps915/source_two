@@ -13,25 +13,24 @@ The frame design is donated to the community to empower creators and makers, and
 <img src="https://github.com/ps915/source_two/blob/master/photos/S2_v0.1_ghost002.png" width="800">
 
 ## Frame specifications
-* Wheelbase 5": 220mm
-* Top plate: 2mm
-* Bottom plate: 3mm
-* Standoff height: 25mm
-* Arm thickness 5": 4mm
-* Stack mounting: 30.5 × 30.5mm & 20 × 20mm 
-* Weight: 72g
+* Wheelbase 5": 220 mm
+* Top plate: 2 mm
+* Bottom plate: 3 mm
+* Standoff height: 25 mm
+* Arm thickness 5": 4 mm
+* Stack mounting: 30.5 × 30.5 mm & 20 × 20 mm 
+* Weight: 72 g
 
 ## Hardware
-* 12x M3x12 allen screw
+* 12x M3x12 mm allen screw
 *  4x M3 steele self lock nut
 *  4x silicone cam mount
-*  4x OD 5mm M3 25mm standoff
-
+*  4x OD 5 mm M3 25 mm standoff
 
 ## Where to buy
 * [www.team-blacksheep.com - Frame](https://www.team-blacksheep.com/products/prod:source_two_5in)
 * [www.team-blacksheep.com - Cam Mount](https://www.team-blacksheep.com/products/prod:source2_cam_mount)
-* open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
+* open [issue](https://github.com/ps915/source_two/issues/new) if you want your shop added
 
 ## Accessories
 More files on [Thingiverse.com](https://www.thingiverse.com/tag:sourcetwo)
@@ -47,10 +46,6 @@ Here is a list of recommended 3D Printing services who are sharing their files u
 
 ### Lumenier AXII / FOXEER Lollipop
 <img src="https://github.com/ps915/source_two/blob/master/photos/005_v0.1.PNG" width="500">
-
-## Where to buy
-* [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_two)
-* open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
 
 ## Project links
 * Project discussion: https://discordapp.com/invite/ZJGkHwF 
